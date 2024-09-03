@@ -1,0 +1,16 @@
+h1, strong, p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: auto;
+    color: #808080; 
+}
+h1, strong {
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-size: 10px;
+    padding-top: 10px;
+}
